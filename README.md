@@ -341,13 +341,13 @@ predictions = model.predict(X_new)
 
 ## 📂 Project Structure
 
-parental-genetics-child-height-prediction/
+parental-genetics-ml/
 
 │
 
 ├── data/
 
-│ └── parental_genetics.csv
+│ └── parental_genetics_child_traits.csv
 
 │
 
@@ -364,6 +364,8 @@ parental-genetics-child-height-prediction/
 │ ├── residual_plot.png
 
 │ └── actual_vs_predicted.png
+
+│ └── Feature importance.png
 
 │
 
@@ -384,9 +386,9 @@ parental-genetics-child-height-prediction/
 ## 🚀 How To Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/parental-genetics-child-height-prediction.git
+git clone https://github.com/rohanjtech/parental-genetics-ml.git
 
-cd parental-genetics-child-height-prediction
+cd parental-genetics-ml
 
 pip install -r requirements.txt
 
@@ -420,16 +422,11 @@ Through this project I learned:
 
 ## 👨‍💻 Author
 
-Rohan Janardan
+Rohan Janardan Pagare
 
-Machine Learning | Data Science | Python
+Aspiring Machine Learning Engineer | Data Science Enthusiast | Python Developer
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/rohanjtech
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: https://www.linkedin.com/in/rohan-pagare-5a0444249/
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
