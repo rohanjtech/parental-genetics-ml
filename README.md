@@ -292,6 +292,28 @@ The project includes:
 
 ---
 
+## 📷 Project Screenshots
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+
+### Actual vs Predicted Analysis
+
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+
+### Exploratory Data Analysis
+
+![EDA](images/eda_subplots.png)
+
+
 ## 💾 Model Persistence
 
 The final trained pipeline was saved using Joblib.
